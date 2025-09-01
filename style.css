@@ -5,7 +5,7 @@
 .header1{
         height: 55px;
         width: 100%;
-        background-color: #021616;
+        background-color: blue;
         display: flex;
         color: white;
         align-items: center;
@@ -264,3 +264,4 @@ ul a {
 .div:hover{
         border: 2px solid white;
 }
+
